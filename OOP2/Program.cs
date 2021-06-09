@@ -28,7 +28,7 @@ namespace OOP2
 
             MusteriManager musteriManager = new MusteriManager();
             musteriManager.Add(musteri1);
-
+            Console.WriteLine();
 
             Console.ReadLine();
         }
